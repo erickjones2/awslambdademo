@@ -1,0 +1,7 @@
+[
+{
+	"keyName": "SQL_URL",
+	"secured": "false",
+	"keyValue": "${{SQL_URL}}"
+}
+]
